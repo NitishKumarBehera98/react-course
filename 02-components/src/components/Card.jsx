@@ -13,10 +13,7 @@ const Card = () => {
     <div>
       <div className="card">
         <h1>Nitish Kumar Behera</h1>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus,
-          quod.
-        </p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus,quod.</p>
       </div>
     </div>
   );
